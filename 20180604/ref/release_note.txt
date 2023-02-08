@@ -1,0 +1,3 @@
+Please see documentations here:
+http://www.homd.org/ftp/NGS_Pipeline/Species_Level_BLASTN/20180604/doc/
+
